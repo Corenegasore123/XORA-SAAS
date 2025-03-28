@@ -160,7 +160,7 @@ export const plans = [
 export const testimonials = [
   {
     id: "0",
-    name: "Jessica Saunders",
+    name: "John Doe",
     role: "Globalnomads",
     avatarUrl: "/images/testimonials/jessica-saunders.png",
     comment:
@@ -168,7 +168,7 @@ export const testimonials = [
   },
   {
     id: "1",
-    name: "Mark Erixon",
+    name: "Jane Doe",
     role: "Vid capital intl",
     avatarUrl: "/images/testimonials/mark-erixon.png",
     comment:
@@ -176,7 +176,7 @@ export const testimonials = [
   },
   {
     id: "2",
-    name: "Melanie Hurst",
+    name: "Terry Smith",
     role: "Cyberleap",
     avatarUrl: "/images/testimonials/melanie-hurst.png",
     comment:
@@ -184,7 +184,7 @@ export const testimonials = [
   },
   {
     id: "3",
-    name: "Alicia Barker",
+    name: "Sam John",
     role: "Cyberleap",
     avatarUrl: "/images/testimonials/alicia-barker.png",
     comment:
@@ -200,7 +200,7 @@ export const testimonials = [
   },
   {
     id: "5",
-    name: "Jim Bradley",
+    name: "Jim Booker",
     role: "Vid capital intl",
     avatarUrl: "/images/testimonials/jim-bradley.png",
     comment:
